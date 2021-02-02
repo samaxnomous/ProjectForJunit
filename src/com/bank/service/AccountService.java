@@ -1,5 +1,5 @@
 package com.bank.service;
-//comment added from github.com for conflicts
+//comment added from github.com for conflict
 import com.bank.dal.AccountDAO;
 import com.bank.dal.AccountDAOInMemoryImpl;
 import com.bank.domain.Account;
